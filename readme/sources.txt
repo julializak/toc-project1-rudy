@@ -1,2 +1,20 @@
-Brute Force
-- https://www.codecademy.com/learn/learn-data-structures-and-algorithms-with-python/modules/brute-force-algorithms/cheatsheet
+BRUTE FORCE
+
+Brute Force Algorithms
+https://www.codecademy.com/learn/learn-data-structures-and-algorithms-with-python/modules/brute-force-algorithms/cheatsheet
+
+The Brute Force Algorithm
+https://kristinamancini.medium.com/the-brute-force-algorithm-c6d62215fb67
+
+Traveling Salesman Problem
+https://optimization.cbe.cornell.edu/index.php?title=Traveling_salesman_problem
+
+Traveling Salesman Problem (Greedy Approach)
+https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_travelling_salesman_problem.htm#:~:text=A%20traveler%20needs%20to%20visit,returns%20to%20the%20origin%20city%3F
+
+
+___________________________
+
+BACKTRACKING
+
+- ...
