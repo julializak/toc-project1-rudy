@@ -15,6 +15,8 @@ https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_anal
 Python libraries - itertools
 https://docs.python.org/3/library/itertools.html
 
+Count/Time the program
+https://www.geeksforgeeks.org/python/time-perf_counter-function-in-python/
 
 ___________________________
 
