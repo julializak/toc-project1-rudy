@@ -1,0 +1,22 @@
+c,3,8 vertex graph
+p,u,8,12
+v,A
+v,B
+v,C
+v,D
+v,E
+v,F
+v,G
+v,H
+e,A,B,2
+e,B,C,2
+e,C,D,3
+e,D,E,1
+e,E,F,4
+e,F,G,2
+e,G,H,3
+e,H,A,2
+e,A,D,5
+e,B,E,4
+e,C,F,3
+e,D,G,2
