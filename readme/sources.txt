@@ -18,6 +18,9 @@ https://docs.python.org/3/library/itertools.html
 Count/Time the program
 https://www.geeksforgeeks.org/python/time-perf_counter-function-in-python/
 
+Plotting from the CSV files
+https://www.geeksforgeeks.org/python/visualize-data-from-csv-file-in-python/
+
 ___________________________
 
 BACKTRACKING
