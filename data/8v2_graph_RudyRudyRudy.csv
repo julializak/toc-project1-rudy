@@ -1,0 +1,20 @@
+c,2,8 vertex with a vertex not connected to two vertices
+p,u,8,10
+v,A
+v,B
+v,C
+v,D
+v,E
+v,F
+v,G
+v,H
+e,A,B,2
+e,A,H,3
+e,B,C,4
+e,B,G,5
+e,C,D,3
+e,D,G,7
+e,G,H,2
+e,H,F,4
+e,F,E,1
+e,F,D,6
