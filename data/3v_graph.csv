@@ -1,8 +1,0 @@
-c,1,triangle graph as a first simple test to double check it runs
-p,u,3,3
-v,A
-v,B
-v,C
-e,A,B,5
-e,B,C,4
-e,C,A,6
