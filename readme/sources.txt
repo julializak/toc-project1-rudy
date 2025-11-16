@@ -26,4 +26,17 @@ ___________________________
 
 BACKTRACKING
 
-- ...
+Backtracking Algorithms
+https://www.geeksforgeeks.org/dsa/backtracking-algorithms/
+
+Traveling Salesman Problem
+https://optimization.cbe.cornell.edu/index.php?title=Traveling_salesman_problem
+
+Traveling Salesman Problem for a tree graph
+https://stackoverflow.com/questions/54610676/travelling-salesman-problem-for-a-tree-graph-no-hamiltonian-path
+
+Hamiltonian Cycle and Traveling Salesman
+https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/hamiltonianCycle_to_TSP.html
+
+Depth-First Search Algorithm
+https://www.codecademy.com/article/depth-first-search-dfs-algorithm
